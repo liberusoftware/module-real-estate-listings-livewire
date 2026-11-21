@@ -3,7 +3,7 @@
   "name": "real-estate-listings-livewire",
   "display_name": "Real Estate Listings Livewire",
   "description": "Livewire component for team-scoped listing lists.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\RealEstate\\ListingsLivewire\\ListingsLivewireServiceProvider",
   "requires": {
